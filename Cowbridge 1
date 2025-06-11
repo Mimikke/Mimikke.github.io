@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title> Mimi's portfolio </title> <!--This is the title of my website. It does not appear on my page but it appears on the top of the tab-->
+</head>
+<body> <!--This is the start of my website-->
+<center> <!-- This code relocates my whole text to the center of the page-->
+  <header> <!--This is the header of my website. It had a bigger size letter compared to others-->
+    <h1>🌿Mimi Griffiths🌿</h1> <!--"h" means header flies.It is used to define the main heading of the texts-->
+</header>
+ <main>
+   <style> body{background-color:rgb(157, 235, 214);}  </style> <!--This code changes the background color. I copy and pasted from visual studio code so that i can chose my own color-->
+ <img src="./images/Cowbridge.jpg"width="400" height="350">
+  <p> This is a street in Cowbridge! I usually go shopping here with my grandma!</p>
+
+  
+
+
+
+  </center>
+
+
+ 
+</body >
+</html >
