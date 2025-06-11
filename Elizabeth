@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title> Mimi's portfolio </title> <!--This is the title of my website. It does not appear on my page but it appears on the top of the tab-->
+</head>
+<body> <!--This is the start of my website-->
+<center> <!-- This code relocates my whole text to the center of the page-->
+  <header> <!--This is the header of my website. It had a bigger size letter compared to others-->
+    <h1>🌿Mimi Griffiths🌿</h1> <!--"h" means header flies.It is used to define the main heading of the texts-->
+m 15 years old and I'm a high school student at Shiba-kokusai. Here are some facts about me!🍃</p>
+ 
+
+<img src="./images/lizard.png"width="300" height="250" >
+ <p>This is my pet lizared named Saginomiya Elizabeth Griffiths. I often him out of the cage and walk around the room! He likes to crawl on my shoulders! He has  beautiful eyes.</p>
+
+</body >
+</html >
+
