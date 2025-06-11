@@ -52,6 +52,8 @@
 
 <img src="./images/wales.png"width="300" height="250" >   <!--These are images. width and height changes the size of the picture-->
    <p>This is a field where me and my Grandma walk the dog! This is my favorite place:)</p>  <!--These are texts that help me explain my pictures-->
+<a> href="Mimikke.github.io/Cowbridge 1"</a>
+<p> click here to see more pictures of Wales! </p>
 <img src="./images/Wales_Church.png"width="300" height="250" >
   <p>This is a church near my Grandma's house</p> 
 <img src="./images/dog.png"width="300" height="250" >
